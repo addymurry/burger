@@ -1,0 +1,25 @@
+.container-fluid {
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+    background-color: #FFFECD;
+}
+
+.container-fluid {
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background-color: #d1c47c;  
+}
+
+
+html {
+    background-color: #d1c47c;
+}
+
+.container-fluid {
+    margin:0px;
+    padding: 0px;
+    background-color: #d1c47c;
+}
